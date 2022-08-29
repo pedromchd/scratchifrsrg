@@ -32,7 +32,7 @@
     // "mgmcdermott.vscode-language-babel",
     // "ms-azuretools.vscode-docker",
     "ms-vscode.atom-keybindings",
-    // "ms-vsliveshare.vsliveshare",
+    "ms-vsliveshare.vsliveshare",
     // "mtxr.sqltools",
     // "mtxr.sqltools-driver-sqlite",
     "Orta.vscode-jest",
